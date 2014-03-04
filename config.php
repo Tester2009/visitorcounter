@@ -92,7 +92,6 @@ function showResult() {
 
 // visitor hit . show to user !
 function countStats() {
-// Activated users only
 // Query the database and get the count 
 $result = mysql_query("SELECT * FROM counter"); 
 $num_rows = mysql_num_rows($result); 
