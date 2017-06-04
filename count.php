@@ -10,7 +10,7 @@
 *  http://www.twitter.com/alepcat1710
 *  http://kamisukagodam.blogspot.com
 *  http://about.me/Tester2009
-*  sulakecorporation1232@gmail.com
+*  tester2009.hakase@gmail.com
 *  - Tester2009 -
 *
 */
